@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\bin\Debug\RoadTrafficApp.exe.config
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\bin\Debug\RoadTrafficApp.exe
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\bin\Debug\RoadTrafficApp.pdb
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\obj\Debug\RoadTrafficApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\obj\Debug\RoadTrafficApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\obj\Debug\RoadTrafficApp.exe
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\obj\Debug\RoadTrafficApp.pdb
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\RoadTrafficApp\RoadTrafficApp\obj\Debug\RoadTrafficApp.csproj.CopyComplete
